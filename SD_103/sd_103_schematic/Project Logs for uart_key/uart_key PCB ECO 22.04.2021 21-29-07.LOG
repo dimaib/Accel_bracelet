@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND_pow Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D2-7
+Removed Pin From Net: NetName=is_chardger Pin=D2-8
+Removed Pin From Net: NetName=NetD2_1 Pin=R1-1
+Removed Pin From Net: NetName=NetD1_1 Pin=R6-2
+Change Component Footprint: Designator=XP5 Old Footprint=CWF-4R_угловая New Footprint=JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+Change Component Footprint: Designator=XP7 Old Footprint=CWF-4R_угловая New Footprint=JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+Change Component Comment : Designator=XP5 Old Comment=LED New Comment=COM
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=HL1 NewDesignator=HL2
+Change Component Designator: OldDesignator=HL2 NewDesignator=HL1
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R2
+Change component parameters: Designator = "XP5" ("XP5"); Footprint = "CWF-4R_угловая"; UniqueID = "\YQIOYXTB" ("\YQIOYXTB")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = "+36V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = "Rx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_3"; Value = "Tx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_4"; Value = "Gnd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/b4b-xh-a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Manufacturer2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP7" ("XP7"); Footprint = "CWF-4R_угловая"; UniqueID = "\WAKPKGUM" ("\WAKPKGUM")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = "+12Vout"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = "led_r"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_3"; Value = "led_g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_4"; Value = "led_b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/b4b-xh-a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Manufacturer2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_pow Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D1-7
+Added Pin To Net: NetName=is_chardger Pin=D1-8
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Pin To Net: NetName=NetD2_1 Pin=R7-2
+Change Net Name : Old Net Name=NetHL1_1 New Net Name=NetHL2_1
+Change Net Name : Old Net Name=NetHL2_1 New Net Name=NetHL1_1
+Added Pin To Net: NetName=NetD2_7 Pin=D2-7
+Added Pin To Net: NetName=NetD2_7 Pin=R12-1
+Added Net: Name=NetD2_7
+Added Pin To Net: NetName=NetD2_8 Pin=D2-8
+Added Pin To Net: NetName=NetD2_8 Pin=R9-1
+Added Pin To Net: NetName=NetD2_8 Pin=R11-1
+Added Net: Name=NetD2_8

@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=uart_key Member=VIA1
+Removed Member From Class: ClassName=uart_key Member=VIA2
+Removed Member From Class: ClassName=uart_key Member=VIA3
+Removed Member From Class: ClassName=uart_key Member=VIA4
+Added Room: Name=uart_key

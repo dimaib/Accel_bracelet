@@ -1,0 +1,13 @@
+Added Component: Designator=D1(SO-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/mocd217r2m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MOCD217R2M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND_pow Pin=D1-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=GND_pow Pin=D1-5
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=GND Pin=D1-7
+Added Pin To Net: NetName=is_chardger Pin=D1-8
+Added Member To Class: ClassName=uart_key Member=Component D1 MOCD217R2M

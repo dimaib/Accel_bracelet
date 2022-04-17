@@ -1,0 +1,153 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R2 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R4 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R5 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R6 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R8 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R9 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R10 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R11 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R13 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R14 Old DesignItemId=0603-10K-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R3 Old DesignItemId=0603-100R-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R7 Old DesignItemId=0603-100R-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R12 Old DesignItemId=0603-100R-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R15 Old DesignItemId=0603-100R-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R16 Old DesignItemId=0603-100R-1% New DesignItemId=Res_0603
+Change Component DesignItemId : Designator=R17 Old DesignItemId=0603-100R-1% New DesignItemId=Res_0603
+Change Component Footprint: Designator=R1 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R2 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R3 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R4 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R5 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R6 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R7 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R8 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R9 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R10 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R11 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R12 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R13 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R14 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R15 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R16 Old Footprint=RC0603 New Footprint=R0603
+Change Component Footprint: Designator=R17 Old Footprint=RC0603 New Footprint=R0603
+Change Component Description : Designator=R1 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R2 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R4 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R5 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R6 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R8 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R9 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R10 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R11 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R13 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R14 Old Description=Резистор SMD CR 0603-10K-1%-1/10W New Description=
+Change Component Description : Designator=R3 Old Description=Резистор SMD CR 0603-100R-1%-1/10W New Description=
+Change Component Description : Designator=R7 Old Description=Резистор SMD CR 0603-100R-1%-1/10W New Description=
+Change Component Description : Designator=R12 Old Description=Резистор SMD CR 0603-100R-1%-1/10W New Description=
+Change Component Description : Designator=R15 Old Description=Резистор SMD CR 0603-100R-1%-1/10W New Description=
+Change Component Description : Designator=R16 Old Description=Резистор SMD CR 0603-100R-1%-1/10W New Description=
+Change Component Description : Designator=R17 Old Description=Резистор SMD CR 0603-100R-1%-1/10W New Description=
+Change Component Library : Designator=R1 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R2 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R3 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R4 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R5 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R6 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R7 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R8 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R9 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R10 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R11 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R12 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R13 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R14 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R15 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R16 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=R17 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RC0603"; UniqueID = "\MILQXSAF" ("\MILQXSAF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RC0603"; UniqueID = "\OLCQVNGD" ("\OLCQVNGD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RC0603"; UniqueID = "\GCUUEVOB" ("\GCUUEVOB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RC0603"; UniqueID = "\VFOMGNVD" ("\VFOMGNVD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RC0603"; UniqueID = "\PAAUARBH" ("\PAAUARBH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RC0603"; UniqueID = "\YMPJVFCQ" ("\YMPJVFCQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RC0603"; UniqueID = "\BXBURWLN" ("\BXBURWLN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RC0603"; UniqueID = "\TKQEBDXQ" ("\TKQEBDXQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RC0603"; UniqueID = "\RQJDLRPQ" ("\RQJDLRPQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RC0603"; UniqueID = "\EIIYXTMC" ("\EIIYXTMC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RC0603"; UniqueID = "\AEIZNFYT" ("\AEIZNFYT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RC0603"; UniqueID = "\KEXZBYWF" ("\KEXZBYWF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "RC0603"; UniqueID = "\WBECLKLF" ("\WBECLKLF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "RC0603"; UniqueID = "\BUVVKGMG" ("\BUVVKGMG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "RC0603"; UniqueID = "\DTSVVZKP" ("\DTSVVZKP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RC0603"; UniqueID = "\ECBTVCRU" ("\ECBTVCRU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RC0603"; UniqueID = "\JRJMKTJX" ("\JRJMKTJX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"

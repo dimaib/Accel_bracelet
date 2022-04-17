@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [uart_key.PrjPcb]
+   Generated File[uart_key.TXT]
+   Generated File[uart_key.LDP]
+   Generated File[uart_key.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:47:41 On 30.11.2021

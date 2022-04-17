@@ -1,0 +1,262 @@
+Added Component: Designator=C6(TANT_3.2X1.6_A)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000686417"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor_elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор электр."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CC0603_0.8mm)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000081151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керам."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.15uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CC0603_0.8mm)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/grm188r71e105ka12d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керам."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CC0603_0.8mm)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/grm188r61e106m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керам."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CC0603_0.8mm)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/grm188r61e106m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керам."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CC0603_0.8mm)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000081151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Конденсатор керам."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.15uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=DA3(SOT-23A_MCP)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/mcp1703t-3302e-cb-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MCP1703T-3302E/CB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(TSSOP-20_ST)
+Add component (AddParameter): Name = "Link1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "STM32F042F6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Микроконтроллер"; VariantName = "[No Variations]"
+Added Component: Designator=HL1(led_1608)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/to-1608bc-pg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "led_1608_green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Светодиод"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LQH43C)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/lqh43mn150k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LQH43C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Индуктивность"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0603)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(Tact_SMD_6x6h4.3)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/kls7-ts6604-4.3-180-b-it-1102s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KLS7-TS6604-4.3-180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Кнопка тактовая"; VariantName = "[No Variations]"
+Added Component: Designator=VIA1(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Отверстие для крепежа"; VariantName = "[No Variations]"
+Added Component: Designator=VIA2(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Отверстие для крепежа"; VariantName = "[No Variations]"
+Added Component: Designator=VIA3(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Отверстие для крепежа"; VariantName = "[No Variations]"
+Added Component: Designator=VIA4(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Отверстие для крепежа"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET N-chanel"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(SOT-23)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET N-chanel"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(SOT-23)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MOSFET N-chanel"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(PLS-2)
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/pls-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Baudrate"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PLS-2"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(B4B-ZR)
+Add component (AddParameter): Name = "Circuit_1"; Value = "Vcc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "CLK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "DIO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_4"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/b4b-zr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "B4B-ZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъём"; VariantName = "[No Variations]"
+Added Component: Designator=XP5(JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "Rx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "Tx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_4"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/b4b-xh-a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link2"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link3"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъём"; VariantName = "[No Variations]"
+Added Component: Designator=XP7(JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+5Vout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "led_r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "led_g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_4"; Value = "led_b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/b4b-xh-a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link2"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link3"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Разъём"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=+3.3V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=+3.3V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=+3.3V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=DA3-1
+Added Pin To Net: NetName=+3.3V Pin=DA3-2
+Added Pin To Net: NetName=NetC9_1 Pin=DA3-3
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=baud Pin=DD2-2
+Added Pin To Net: NetName=NetC8_1 Pin=DD2-4
+Added Pin To Net: NetName=+3.3V Pin=DD2-5
+Added Pin To Net: NetName=is_chardger Pin=DD2-8
+Added Pin To Net: NetName=NetDD2_9 Pin=DD2-9
+Added Pin To Net: NetName=led_r_on Pin=DD2-12
+Added Pin To Net: NetName=led_g_on Pin=DD2-13
+Added Pin To Net: NetName=led_b_on Pin=DD2-14
+Added Pin To Net: NetName=GND Pin=DD2-15
+Added Pin To Net: NetName=+3.3V Pin=DD2-16
+Added Pin To Net: NetName=tx Pin=DD2-17
+Added Pin To Net: NetName=rx Pin=DD2-18
+Added Pin To Net: NetName=DIO Pin=DD2-19
+Added Pin To Net: NetName=CLK Pin=DD2-20
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=NetDD2_9 Pin=HL1-2
+Added Pin To Net: NetName=+5V Pin=L2-1
+Added Pin To Net: NetName=NetC9_1 Pin=L2-2
+Added Pin To Net: NetName=NetHL1_1 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetDD2_1 Pin=R8-2
+Added Pin To Net: NetName=+3.3V Pin=R10-1
+Added Pin To Net: NetName=NetC8_1 Pin=R10-2
+Added Pin To Net: NetName=led_r_on Pin=R15-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=led_g_on Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=led_b_on Pin=R17-1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetC8_1 Pin=SB1-COM
+Added Pin To Net: NetName=NetC8_1 Pin=SB1-COM
+Added Pin To Net: NetName=GND Pin=SB1-NO
+Added Pin To Net: NetName=GND Pin=SB1-NO
+Added Pin To Net: NetName=NetR15_2 Pin=VT2-1
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=led_r_power Pin=VT2-3
+Added Pin To Net: NetName=NetR16_2 Pin=VT3-1
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=led_g_power Pin=VT3-3
+Added Pin To Net: NetName=NetR17_2 Pin=VT4-1
+Added Pin To Net: NetName=GND Pin=VT4-2
+Added Pin To Net: NetName=led_b_power Pin=VT4-3
+Added Pin To Net: NetName=baud Pin=XP2-1
+Added Pin To Net: NetName=GND Pin=XP2-2
+Added Pin To Net: NetName=+3.3V Pin=XP4-1
+Added Pin To Net: NetName=CLK Pin=XP4-2
+Added Pin To Net: NetName=DIO Pin=XP4-3
+Added Pin To Net: NetName=GND Pin=XP4-4
+Added Pin To Net: NetName=+5V Pin=XP5-1
+Added Pin To Net: NetName=rx Pin=XP5-2
+Added Pin To Net: NetName=tx Pin=XP5-3
+Added Pin To Net: NetName=GND Pin=XP5-4
+Added Pin To Net: NetName=+5V Pin=XP7-1
+Added Pin To Net: NetName=led_r_power Pin=XP7-2
+Added Pin To Net: NetName=led_g_power Pin=XP7-3
+Added Pin To Net: NetName=led_b_power Pin=XP7-4
+Added Member To Class: ClassName=uart_key Member=Component C6 2.2uF 16V
+Added Member To Class: ClassName=uart_key Member=Component C7 0.15uF 50V
+Added Member To Class: ClassName=uart_key Member=Component C8 1uF 25V
+Added Member To Class: ClassName=uart_key Member=Component C9 10uF 25V
+Added Member To Class: ClassName=uart_key Member=Component C11 10uF 25V
+Added Member To Class: ClassName=uart_key Member=Component C13 0.15uF 50V
+Added Member To Class: ClassName=uart_key Member=Component DA3 MCP1703T-3302E/CB
+Added Member To Class: ClassName=uart_key Member=Component DD2 STM32F042F6
+Added Member To Class: ClassName=uart_key Member=Component HL1 led_1608_green
+Added Member To Class: ClassName=uart_key Member=Component L2 LQH43C 15uH
+Added Member To Class: ClassName=uart_key Member=Component R2 10k ±1%
+Added Member To Class: ClassName=uart_key Member=Component R8 10k ±1%
+Added Member To Class: ClassName=uart_key Member=Component R10 10k ±1%
+Added Member To Class: ClassName=uart_key Member=Component R15 100 ±1%
+Added Member To Class: ClassName=uart_key Member=Component R16 100 ±1%
+Added Member To Class: ClassName=uart_key Member=Component R17 100 ±1%
+Added Member To Class: ClassName=uart_key Member=Component SB1 KLS7-TS6604-4.3-180
+Added Member To Class: ClassName=uart_key Member=Component VIA1 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VIA2 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VIA3 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VIA4 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VT2 IRLML2060
+Added Member To Class: ClassName=uart_key Member=Component VT3 IRLML2060
+Added Member To Class: ClassName=uart_key Member=Component VT4 IRLML2060
+Added Member To Class: ClassName=uart_key Member=Component XP2 Baudrate
+Added Member To Class: ClassName=uart_key Member=Component XP4 ST-Link
+Added Member To Class: ClassName=uart_key Member=Component XP5 COM
+Added Member To Class: ClassName=uart_key Member=Component XP7 LED
+Added Room: Name=uart_key

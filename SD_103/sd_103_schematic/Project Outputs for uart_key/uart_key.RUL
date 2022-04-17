@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Mega\02.Progect_h\12.uart_key\uart_key_alt\uart_key_demo\uart_key.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.66
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=TestPointToPad|Scope=Board|Minimum=8.66

@@ -1,0 +1,6 @@
+Added Component: Designator=VIA3(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Added Component: Designator=VIA4(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=uart_key Member=Component VIA3 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VIA4 via_circle_2.2mm

@@ -1,0 +1,1651 @@
+Added Component: Designator=C1(CAPAE_SMD_1010)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\393175098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "98981354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "CES_D10.0xH10.0_220uF_20%_16V_105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CES_D10.0xH10.0_220uF_20%_16V_105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CES_D10.0xH10.0_220uF_20%_16V_105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange,°C"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CC0603_0.8mm)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71e105ka12d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1366898379.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "1366767268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "C0603_X5R_1uF_10%_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "C0603_X5R_1uF_10%_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603_X5R_1uF_10%_50V_2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPAE_SMD_1010)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\393175098.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "98981354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "CES_D10.0xH10.0_220uF_20%_16V_105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CES_D10.0xH10.0_220uF_20%_16V_105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CES_D10.0xH10.0_220uF_20%_16V_105C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange,°C"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CC0603_0.8mm)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71e105ka12d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1366898379.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "1366767268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "C0603_X5R_1uF_10%_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "C0603_X5R_1uF_10%_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603_X5R_1uF_10%_50V_2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPAE_SMD_0607)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\613398236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\843393561.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "589054101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "CES_D6.3xH7.7_220uF_20%_16V_105C_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CES_D6.3xH7.7_220uF_20%_16V_105C_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CES_D6.3xH7.7_220uF_20%_16V_105C_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange,°C"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(TANT_3.2X1.6_A)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000686417"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\354380256.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1135595732.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "220960157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "CTS_3216_10uF_10%_6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "3216-10uF-10%-6,3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "3216-10uF-10%-6,3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CC3216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CC0603_0.8mm)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71e105ka12d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1366898379.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "1366767268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "C0603_X5R_1uF_10%_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "C0603_X5R_1uF_10%_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603_X5R_1uF_10%_50V_2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CC0603_0.8mm)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r61e106m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\727234197.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "609417855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603X5R-10uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Не использ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "C0603_X5R_10uF_10%_16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603_X5R_10uF_10%_16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CC0603_0.8mm)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r61e106m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\727234197.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "609417855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603X5R-10uF-16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Не использ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "C0603_X5R_10uF_10%_16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603_X5R_10uF_10%_16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CC0603_0.8mm)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm188r71e105ka12d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1366898379.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "1366767268"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "C0603_X5R_1uF_10%_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "C0603_X5R_1uF_10%_50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603_X5R_1uF_10%_50V_2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CC0603_0.8mm)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000081151"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "C0603_X7R_0.15uF_10%_16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603_X7R_0.15uF_10%_16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.15uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPAE_SMD_0607)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\613398236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\843393561.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "589054101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "CES_D6.3xH7.7_220uF_20%_16V_105C_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CES_D6.3xH7.7_220uF_20%_16V_105C_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CES_D6.3xH7.7_220uF_20%_16V_105C_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange,°C"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SO-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/mocd217r2m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MOCD217R2M"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SO-8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/mocd217r2m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MOCD217R2M"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(TO-263-5 (D2PAK))
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "4.65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/lm2596hvgr-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Качанов С.В."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "252310784"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "LM2575HVS-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LM2596S-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM2575HVS-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DA2(TO-263-5 (D2PAK))
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "4.65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/lm2596hvgr-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Качанов С.В."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "252310784"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "LM2575HVS-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LM2596S-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM2575HVS-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DA3(SOT-23A_MCP)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = "MCP1703AT-3302E/CB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/mcp1703t-3302e-cb-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\160780762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\238570007.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Кравченко И.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "160150968"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "MCP1703T-3302E/CB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MCP1703T-3302E/CB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "MCP1703T-3302E/CB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(SOT-23-6)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/sn74lvc2g14dbvr-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SN74LVC2G14DBVR"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(TSSOP-20_ST)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "STM32F042F6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "STM32F042F6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "STM32F042F6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-40…+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "32Bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HL1(led_1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-pg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "led_1608_green"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(led_1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "led_1608_red"; VariantName = "[No Variations]"
+Added Component: Designator=HL3(led_1608)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "led_1608_red"; VariantName = "[No Variations]"
+Added Component: Designator=L1(SDR1006)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "5,8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/sdr1006-330kl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1236663248.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Гавричков В.А."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "832854637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "SDR1006-100ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SDR1006-100ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SDR1006-100ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-40…+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uH"; VariantName = "[No Variations]"
+Added Component: Designator=L2(LQH43C)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "2.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/lqh43mn150k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\365582300.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Качанов С.В."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110700287"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "LQH43C-22uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Не желат."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "LQH43MN150K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LQH43C-22uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Added Component: Designator=L3(SDR1006)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "5,8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/sdr1006-330kl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1236663248.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Гавричков В.А."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "832854637"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "SDR1006-100ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SDR1006-100ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SDR1006-100ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-40…+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uH"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "596709815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "596709815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "596709815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "596709815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "596709815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "596709815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-100R-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RC0603)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\465403990.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\1436324605.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Турнаев С.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "110403509"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxWorkingVoltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "0603-10K-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerDiss"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoef"; Value = "±100 ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = "-55..+155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(Tact_SMD_6x6h4.3)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = "DTSM-61N-V-T/R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "4.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/kls7-ts6604-4.3-180-b-it-1102s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\424245294.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://katalog.we-online.de/em/datasheet/4301x2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Кравченко И.С."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "420315264"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "430182043816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "430182043816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "430182043816"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Tact Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SMD_6.0x6.0"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DO-214AC (SMA))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ss16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SS16"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DO-214AC (SMA))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ss16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "SS16"; VariantName = "[No Variations]"
+Added Component: Designator=VIA1(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Added Component: Designator=VIA2(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Added Component: Designator=VIA3(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Added Component: Designator=VIA4(via_circle_2.2)
+Add component (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT-23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Added Component: Designator=VT3(SOT-23)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Added Component: Designator=VT4(TO-263A (D2PAK))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/irf630nspbf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IRF630NSPBF"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(PLD-2)
+Add component (AddParameter): Name = "AdditionalPartDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AdditionalPartSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogDB"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "AnalogSCH"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "8,54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\243802317.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "\\192.168.11.60\BolidLibrary\Altium\Database\Datasheets\840235437.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentVersion"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Качанов С.В."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Developer_ID"; Value = "97673931"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperMnemocod"; Value = "PLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeveloperRecomend"; Value = "Желательно"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "PLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pattern2Version"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PatternVersion"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch,mm"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rows"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationModelName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TempRange"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TestCode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XP2(KLS2-EDR-3.50-02P-4)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+48V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/kls2-edr-3.50-02p-4-15edgrc-3.5-02p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KLS2-EDR-3.50-02P-4"; VariantName = "[No Variations]"
+Added Component: Designator=XP3(B4B-ZR)
+Add component (AddParameter): Name = "Circuit_1"; Value = "Vcc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "CLK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "DIO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_4"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/b4b-zr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "B4B-ZR"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(CWF-6R_угловая)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "Rx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_4"; Value = "Tx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_5"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_6"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/cwf-6r-ds1069-6-mr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/chu-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CWF-6R"; VariantName = "[No Variations]"
+Added Component: Designator=XP5(CWF-4R_угловая)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+12Vout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "led_r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "led_g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_4"; Value = "led_b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/cwf-4r-ds1069-4-mr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Manufacturer2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CWF-4R"; VariantName = "[No Variations]"
+Added Component: Designator=XP6(KLS2-EDR-3.50-02P-4)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+48V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/kls2-edr-3.50-02p-4-15edgrc-3.5-02p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "KLS2-EDR-3.50-02P-4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C9-1
+Added Pin To Net: NetName=+3.3V Pin=C11-1
+Added Pin To Net: NetName=+3.3V Pin=DA3-2
+Added Pin To Net: NetName=+3.3V Pin=DD1-6
+Added Pin To Net: NetName=+3.3V Pin=DD2-5
+Added Pin To Net: NetName=+3.3V Pin=DD2-16
+Added Pin To Net: NetName=+3.3V Pin=R7-1
+Added Pin To Net: NetName=+3.3V Pin=XP3-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+12V_magnit Pin=C10-1
+Added Pin To Net: NetName=+12V_magnit Pin=C12-2
+Added Pin To Net: NetName=+12V_magnit Pin=DA2-4
+Added Pin To Net: NetName=+12V_magnit Pin=L3-2
+Added Pin To Net: NetName=+12V_magnit Pin=L3-2
+Added Net: Name=+12V_magnit
+Added Pin To Net: NetName=+12V Pin=C4-1
+Added Pin To Net: NetName=+12V Pin=C5-2
+Added Pin To Net: NetName=+12V Pin=C6-2
+Added Pin To Net: NetName=+12V Pin=DA1-4
+Added Pin To Net: NetName=+12V Pin=L1-2
+Added Pin To Net: NetName=+12V Pin=L1-2
+Added Pin To Net: NetName=+12V Pin=L2-1
+Added Pin To Net: NetName=+12V Pin=XP5-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=+36V Pin=C1-2
+Added Pin To Net: NetName=+36V Pin=DA1-1
+Added Pin To Net: NetName=+36V Pin=XP4-1
+Added Net: Name=+36V
+Added Pin To Net: NetName=+48V_charger Pin=C3-2
+Added Pin To Net: NetName=+48V_charger Pin=DA2-1
+Added Pin To Net: NetName=+48V_charger Pin=R1-2
+Added Pin To Net: NetName=+48V_charger Pin=R5-1
+Added Pin To Net: NetName=+48V_charger Pin=R15-2
+Added Pin To Net: NetName=+48V_charger Pin=XP2-1
+Added Pin To Net: NetName=+48V_charger Pin=XP6-1
+Added Net: Name=+48V_charger
+Added Pin To Net: NetName=CLK Pin=DD2-20
+Added Pin To Net: NetName=CLK Pin=XP3-2
+Added Net: Name=CLK
+Added Pin To Net: NetName=DIO Pin=DD2-19
+Added Pin To Net: NetName=DIO Pin=XP3-3
+Added Net: Name=DIO
+Added Pin To Net: NetName=GND_pow Pin=C3-1
+Added Pin To Net: NetName=GND_pow Pin=C10-2
+Added Pin To Net: NetName=GND_pow Pin=C12-1
+Added Pin To Net: NetName=GND_pow Pin=D1-2
+Added Pin To Net: NetName=GND_pow Pin=D1-5
+Added Pin To Net: NetName=GND_pow Pin=DA2-3
+Added Pin To Net: NetName=GND_pow Pin=DA2-6
+Added Pin To Net: NetName=GND_pow Pin=R6-2
+Added Pin To Net: NetName=GND_pow Pin=R8-2
+Added Pin To Net: NetName=GND_pow Pin=R14-2
+Added Pin To Net: NetName=GND_pow Pin=R17-2
+Added Pin To Net: NetName=GND_pow Pin=VD2-2
+Added Pin To Net: NetName=GND_pow Pin=VT4-3
+Added Pin To Net: NetName=GND_pow Pin=XP2-2
+Added Net: Name=GND_pow
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=GND Pin=D1-7
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-5
+Added Pin To Net: NetName=GND Pin=DA1-6
+Added Pin To Net: NetName=GND Pin=DA3-1
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=GND Pin=DD2-15
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=SB1-NO
+Added Pin To Net: NetName=GND Pin=SB1-NO
+Added Pin To Net: NetName=GND Pin=VD1-2
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA1-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA2-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA3-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VIA4-1
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT2-2
+Added Pin To Net: NetName=GND Pin=VT3-2
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=GND Pin=XP3-4
+Added Pin To Net: NetName=GND Pin=XP4-5
+Added Net: Name=GND
+Added Pin To Net: NetName=is_chardger Pin=C2-1
+Added Pin To Net: NetName=is_chardger Pin=D1-8
+Added Pin To Net: NetName=is_chardger Pin=DD2-8
+Added Net: Name=is_chardger
+Added Pin To Net: NetName=led_b_on Pin=DD2-11
+Added Pin To Net: NetName=led_b_on Pin=R13-1
+Added Net: Name=led_b_on
+Added Pin To Net: NetName=led_b_power Pin=VT3-3
+Added Pin To Net: NetName=led_b_power Pin=XP5-4
+Added Net: Name=led_b_power
+Added Pin To Net: NetName=led_g_on Pin=DD2-10
+Added Pin To Net: NetName=led_g_on Pin=R12-1
+Added Net: Name=led_g_on
+Added Pin To Net: NetName=led_g_power Pin=VT2-3
+Added Pin To Net: NetName=led_g_power Pin=XP5-3
+Added Net: Name=led_g_power
+Added Pin To Net: NetName=led_r_on Pin=DD2-9
+Added Pin To Net: NetName=led_r_on Pin=R11-1
+Added Net: Name=led_r_on
+Added Pin To Net: NetName=led_r_power Pin=VT1-3
+Added Pin To Net: NetName=led_r_power Pin=XP5-2
+Added Net: Name=led_r_power
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=DD2-4
+Added Pin To Net: NetName=NetC7_1 Pin=R7-2
+Added Pin To Net: NetName=NetC7_1 Pin=SB1-COM
+Added Pin To Net: NetName=NetC7_1 Pin=SB1-COM
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=DA3-3
+Added Pin To Net: NetName=NetC8_1 Pin=L2-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=R2-2
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD1_6 Pin=D1-6
+Added Pin To Net: NetName=NetD1_6 Pin=DA2-5
+Added Pin To Net: NetName=NetD1_6 Pin=R5-2
+Added Pin To Net: NetName=NetD1_6 Pin=R6-1
+Added Net: Name=NetD1_6
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R10-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_7 Pin=D2-7
+Added Pin To Net: NetName=NetD2_7 Pin=R16-1
+Added Net: Name=NetD2_7
+Added Pin To Net: NetName=NetD2_8 Pin=D2-8
+Added Pin To Net: NetName=NetD2_8 Pin=R14-1
+Added Pin To Net: NetName=NetD2_8 Pin=R15-1
+Added Net: Name=NetD2_8
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=L1-1
+Added Pin To Net: NetName=NetDA1_2 Pin=L1-1
+Added Pin To Net: NetName=NetDA1_2 Pin=VD1-1
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA2_2 Pin=DA2-2
+Added Pin To Net: NetName=NetDA2_2 Pin=L3-1
+Added Pin To Net: NetName=NetDA2_2 Pin=L3-1
+Added Pin To Net: NetName=NetDA2_2 Pin=VD2-1
+Added Net: Name=NetDA2_2
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_1 Pin=R4-2
+Added Net: Name=NetDD2_1
+Added Pin To Net: NetName=NetDD2_12 Pin=DD2-12
+Added Pin To Net: NetName=NetDD2_12 Pin=XP1-1
+Added Net: Name=NetDD2_12
+Added Pin To Net: NetName=NetHL1_C Pin=R3-1
+Added Net: Name=NetHL1_C
+Added Pin To Net: NetName=NetHL2_C Pin=R8-1
+Added Net: Name=NetHL2_C
+Added Pin To Net: NetName=NetHL3_C Pin=R9-1
+Added Net: Name=NetHL3_C
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=VT1-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=VT2-1
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=VT3-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=R17-1
+Added Pin To Net: NetName=NetR16_2 Pin=VT4-1
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetVT4_2 Pin=VT4-2
+Added Pin To Net: NetName=NetVT4_2 Pin=XP6-2
+Added Net: Name=NetVT4_2
+Added Pin To Net: NetName=on_chardger Pin=DD2-6
+Added Pin To Net: NetName=on_chardger Pin=R10-1
+Added Net: Name=on_chardger
+Added Pin To Net: NetName=on_magnit Pin=DD2-7
+Added Pin To Net: NetName=on_magnit Pin=R2-1
+Added Net: Name=on_magnit
+Added Pin To Net: NetName=rx_clem Pin=DD1-3
+Added Pin To Net: NetName=rx_clem Pin=XP4-3
+Added Net: Name=rx_clem
+Added Pin To Net: NetName=rx Pin=DD1-4
+Added Pin To Net: NetName=rx Pin=DD2-18
+Added Net: Name=rx
+Added Pin To Net: NetName=tx_clem Pin=XP4-4
+Added Net: Name=tx_clem
+Added Pin To Net: NetName=tx Pin=DD1-1
+Added Pin To Net: NetName=tx Pin=DD2-17
+Added Net: Name=tx
+Added Member To Class: ClassName=uart_key Member=Component C1 220uF 50V
+Added Member To Class: ClassName=uart_key Member=Component C2 1uF
+Added Member To Class: ClassName=uart_key Member=Component C3 220uF 50V
+Added Member To Class: ClassName=uart_key Member=Component C4 1uF
+Added Member To Class: ClassName=uart_key Member=Component C5 220uF 16V
+Added Member To Class: ClassName=uart_key Member=Component C6 2.2uF 16V
+Added Member To Class: ClassName=uart_key Member=Component C7 1uF
+Added Member To Class: ClassName=uart_key Member=Component C8 10uF
+Added Member To Class: ClassName=uart_key Member=Component C9 10uF
+Added Member To Class: ClassName=uart_key Member=Component C10 1uF
+Added Member To Class: ClassName=uart_key Member=Component C11 0.15uF
+Added Member To Class: ClassName=uart_key Member=Component C12 220uF 16V
+Added Member To Class: ClassName=uart_key Member=Component D1 MOCD217R2M
+Added Member To Class: ClassName=uart_key Member=Component D2 MOCD217R2M
+Added Member To Class: ClassName=uart_key Member=Component DA1 LM2596S-12
+Added Member To Class: ClassName=uart_key Member=Component DA2 LM2596S-12
+Added Member To Class: ClassName=uart_key Member=Component DA3 MCP1703T-3302E/CB
+Added Member To Class: ClassName=uart_key Member=Component DD1 SN74LVC2G14DBVR
+Added Member To Class: ClassName=uart_key Member=Component DD2 STM32F042F6
+Added Member To Class: ClassName=uart_key Member=Component HL1 led_1608_green
+Added Member To Class: ClassName=uart_key Member=Component HL2 led_1608_red
+Added Member To Class: ClassName=uart_key Member=Component HL3 led_1608_red
+Added Member To Class: ClassName=uart_key Member=Component L1 33uH
+Added Member To Class: ClassName=uart_key Member=Component L2 15uH
+Added Member To Class: ClassName=uart_key Member=Component L3 33uH
+Added Member To Class: ClassName=uart_key Member=Component R1 10k
+Added Member To Class: ClassName=uart_key Member=Component R2 100
+Added Member To Class: ClassName=uart_key Member=Component R3 10k
+Added Member To Class: ClassName=uart_key Member=Component R4 10k
+Added Member To Class: ClassName=uart_key Member=Component R5 10k
+Added Member To Class: ClassName=uart_key Member=Component R6 10k
+Added Member To Class: ClassName=uart_key Member=Component R7 10k
+Added Member To Class: ClassName=uart_key Member=Component R8 10k
+Added Member To Class: ClassName=uart_key Member=Component R9 10k
+Added Member To Class: ClassName=uart_key Member=Component R10 100
+Added Member To Class: ClassName=uart_key Member=Component R11 100
+Added Member To Class: ClassName=uart_key Member=Component R12 100
+Added Member To Class: ClassName=uart_key Member=Component R13 100
+Added Member To Class: ClassName=uart_key Member=Component R14 10k
+Added Member To Class: ClassName=uart_key Member=Component R15 10k
+Added Member To Class: ClassName=uart_key Member=Component R16 100
+Added Member To Class: ClassName=uart_key Member=Component R17 10k
+Added Member To Class: ClassName=uart_key Member=Component SB1 430182043816
+Added Member To Class: ClassName=uart_key Member=Component VD1 SS16
+Added Member To Class: ClassName=uart_key Member=Component VD2 SS16
+Added Member To Class: ClassName=uart_key Member=Component VIA1 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VIA2 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VIA3 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VIA4 via_circle_2.2mm
+Added Member To Class: ClassName=uart_key Member=Component VT1 IRLML2060
+Added Member To Class: ClassName=uart_key Member=Component VT2 IRLML2060
+Added Member To Class: ClassName=uart_key Member=Component VT3 IRLML2060
+Added Member To Class: ClassName=uart_key Member=Component VT4 IRF630NSPBF
+Added Member To Class: ClassName=uart_key Member=Component XP1 PLD
+Added Member To Class: ClassName=uart_key Member=Component XP2 Зарядное устройство
+Added Member To Class: ClassName=uart_key Member=Component XP3 ST-Link
+Added Member To Class: ClassName=uart_key Member=Component XP4 CWF-6R
+Added Member To Class: ClassName=uart_key Member=Component XP5 LED
+Added Member To Class: ClassName=uart_key Member=Component XP6 На аккумулятор
+Added Room: Name=uart_key

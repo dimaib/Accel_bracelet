@@ -1,0 +1,60 @@
+Added Component: Designator=XP5(CWF-4R_угловая)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+12Vout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "led_r"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "led_g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_4"; Value = "led_b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/cwf-4r-ds1069-4-mr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Manufacturer2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CWF-4R"; VariantName = "[No Variations]"
+Added Component: Designator=XP?(DG308x2)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+48V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/dg308-2.54-02p-14-00ah"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DG308x2"; VariantName = "[No Variations]"
+Added Component: Designator=XP?(DG308x2)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+48V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/dg308-2.54-02p-14-00ah"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DG308x2"; VariantName = "[No Variations]"
+Added Component: Designator=XP?(DG308x2)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+48V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/dg308-2.54-02p-14-00ah"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DG308x2"; VariantName = "[No Variations]"
+Added Component: Designator=XP?(CWF-4R_угловая)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "Rx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "Tx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_4"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/cwf-4r-ds1069-4-mr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Manufacturer2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CWF-4R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=XP5-1
+Added Pin To Net: NetName=led_r_power Pin=XP5-2
+Added Pin To Net: NetName=led_g_power Pin=XP5-3
+Added Pin To Net: NetName=led_b_power Pin=XP5-4
+Added Pin To Net: NetName=+12V_magnit Pin=XP?-1
+Added Pin To Net: NetName=+36V Pin=XP?-1
+Added Pin To Net: NetName=+48V_charger Pin=XP?-1
+Added Pin To Net: NetName=+48V_charger Pin=XP?-1
+Added Pin To Net: NetName=GND_pow Pin=XP?-2
+Added Pin To Net: NetName=NetVT4_2 Pin=XP?-2
+Added Pin To Net: NetName=rx_clem Pin=XP?-2
+Added Pin To Net: NetName=tx_clem Pin=XP?-3
+Added Pin To Net: NetName=GND Pin=XP?-4
+Added Member To Class: ClassName=uart_key Member=Component XP5 LED
+Added Member To Class: ClassName=uart_key Member=Component XP? На аккумулятор
+Added Member To Class: ClassName=uart_key Member=Component XP? На аккумулятор
+Added Member To Class: ClassName=uart_key Member=Component XP? Зарядное устройство
+Added Member To Class: ClassName=uart_key Member=Component XP? LED

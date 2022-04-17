@@ -1,0 +1,3 @@
+Remove Pin=XP4-2 From Net=led_r_power
+Remove Pin=XP4-3 From Net=led_g_power
+Remove Pin=XP4-4 From Net=led_b_power

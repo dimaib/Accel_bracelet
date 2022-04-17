@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+5V Pin=XP4-1
+Added Pin To Net: NetName=NetXP4_2 Pin=XP4-2
+Added Pin To Net: NetName=NetXP4_2 Pin=XP4-4
+Added Net: Name=NetXP4_2
+Added Room: Name=uart_key

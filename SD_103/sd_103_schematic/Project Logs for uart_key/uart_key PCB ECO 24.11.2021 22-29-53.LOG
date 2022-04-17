@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=rx Pin=XP4-4
+Added Pin To Net: NetName=+5V Pin=XP4-2
+Added Pin To Net: NetName=led_r_power Pin=XP4-2
+Added Pin To Net: NetName=led_g_power Pin=XP4-3
+Added Pin To Net: NetName=led_b_power Pin=XP4-4

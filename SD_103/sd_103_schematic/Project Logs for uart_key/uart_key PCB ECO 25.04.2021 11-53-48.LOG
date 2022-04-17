@@ -1,0 +1,273 @@
+Change Component DesignItemId : Designator=L2 Old DesignItemId=LQH43C-22uH New DesignItemId=Inductor
+Change Component DesignItemId : Designator=L1 Old DesignItemId=SDR1006-100ML New DesignItemId=Inductor
+Change Component DesignItemId : Designator=L3 Old DesignItemId=SDR1006-100ML New DesignItemId=Inductor
+Change Component Footprint: Designator=D1 Old Footprint=SO-8 New Footprint=SO-8_height
+Change Component Footprint: Designator=D2 Old Footprint=SO-8 New Footprint=SO-8_height
+Change Component Comment : Designator=SB1 Old Comment= New Comment=KLS7-TS6604-4.3-180
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R4 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R5 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R6 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R8 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R9 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R10 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R11 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R13 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=R14 Old Comment=10k New Comment=10k ±1%
+Change Component Comment : Designator=L2 Old Comment=15uH New Comment=LQH43C 15uH
+Change Component Comment : Designator=L1 Old Comment=33uH New Comment=SDR1006 33uH
+Change Component Comment : Designator=L3 Old Comment=33uH New Comment=SDR1006 33uH
+Change Component Comment : Designator=R3 Old Comment=100 New Comment=100 ±1%
+Change Component Comment : Designator=R7 Old Comment=100 New Comment=100 ±1%
+Change Component Comment : Designator=R12 Old Comment=100 New Comment=100 ±1%
+Change Component Comment : Designator=R15 Old Comment=100 New Comment=100 ±1%
+Change Component Comment : Designator=R16 Old Comment=100 New Comment=100 ±1%
+Change Component Comment : Designator=R17 Old Comment=100 New Comment=100 ±1%
+Change Component Comment : Designator=XP2 Old Comment=Baud New Comment=Baudrate
+Change Component Comment : Designator=XP1 Old Comment=DG308x2 New Comment=Зарядное устройство
+Change Component Comment : Designator=XP6 Old Comment=DG308x2 New Comment=Магнит
+Change Component Comment : Designator=XP3 Old Comment=DG308x2 New Comment=На аккумулятор
+Change Component Description : Designator=L2 Old Description=Индуктивность SMD 1812 LQH43C-22uH New Description=
+Change Component Description : Designator=L1 Old Description=Индуктивность SMD SDR1006-100ML 10мкГн New Description=
+Change Component Description : Designator=L3 Old Description=Индуктивность SMD SDR1006-100ML 10мкГн New Description=
+Change Component Library : Designator=L1 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=L2 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change Component Library : Designator=L3 Old Library=BolidLib1.DbLib New Library=AD_lib.SchLib
+Change component parameters: Designator = "SB1" ("SB1"); Footprint = "Tact_SMD_6x6h4.3"; UniqueID = "\TGKJJVOV" ("\TGKJJVOV")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/kls7-ts6604-4.3-180-b-it-1102s"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "KLS7-TS6604-4.3-180"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Кнопка тактовая"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SO-8"; UniqueID = "\WCDNJFMV" ("\WCDNJFMV")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/mocd217r2m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MOCD217R2M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Оптопара"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SO-8"; UniqueID = "\HFRPGZYE" ("\HFRPGZYE")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/mocd217r2m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MOCD217R2M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Оптопара"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1" ("DD1"); Footprint = "SOT-23-6"; UniqueID = "\XQNTLMDI" ("\XQNTLMDI")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/sn74lvc2g14dbvr-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "SN74LVC2G14DBVR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Логика"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HL1" ("HL1"); Footprint = "led_1608"; UniqueID = "\EXJSVVFE" ("\EXJSVVFE")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/to-1608bc-pg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "led_1608_green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Светодиод"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HL2" ("HL2"); Footprint = "led_1608"; UniqueID = "\IJYXCRAB" ("\IJYXCRAB")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "led_1608_red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Светодиод"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HL3" ("HL3"); Footprint = "led_1608"; UniqueID = "\IXMUVYKE" ("\IXMUVYKE")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/to-1608bc-mre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "led_1608_red"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Светодиод"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD1" ("VD1"); Footprint = "DO-214AC (SMA)"; UniqueID = "\NFLDZCHM" ("\NFLDZCHM")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/ss16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "SS16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD2" ("VD2"); Footprint = "DO-214AC (SMA)"; UniqueID = "\IIKKFPYY" ("\IIKKFPYY")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/ss16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "SS16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VIA1" ("VIA1"); Footprint = "via_circle_2.2"; UniqueID = "\HBXVNLRV" ("\HBXVNLRV")
+Change component parameters (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Отверстие для крепежа"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VIA2" ("VIA2"); Footprint = "via_circle_2.2"; UniqueID = "\ILHQTRRR" ("\ILHQTRRR")
+Change component parameters (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Отверстие для крепежа"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VIA3" ("VIA3"); Footprint = "via_circle_2.2"; UniqueID = "\RMCSZZKE" ("\RMCSZZKE")
+Change component parameters (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Отверстие для крепежа"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VIA4" ("VIA4"); Footprint = "via_circle_2.2"; UniqueID = "\JLIXPYQG" ("\JLIXPYQG")
+Change component parameters (AddParameter): Name = "Name"; Value = "via_circle_2.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Отверстие для крепежа"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT1" ("VT1"); Footprint = "TO-263A (D2PAK)"; UniqueID = "\KFTMKBDO" ("\KFTMKBDO")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/irf630nspbf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "IRF630NSPBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "MOSFET N-chanel"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT2" ("VT2"); Footprint = "SOT-23"; UniqueID = "\MLCWRCLQ" ("\MLCWRCLQ")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "MOSFET N-chanel"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT3" ("VT3"); Footprint = "SOT-23"; UniqueID = "\ZIAIUVQO" ("\ZIAIUVQO")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "MOSFET N-chanel"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT4" ("VT4"); Footprint = "SOT-23"; UniqueID = "\JFWNVCGV" ("\JFWNVCGV")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/irlml2060trpbf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "IRLML2060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "MOSFET N-chanel"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP1" ("XP1"); Footprint = "DG308x2"; UniqueID = "\BHWNRJNY" ("\BHWNRJNY")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = "+48V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = "Gnd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/dg308-2.54-02p-14-00ah"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "DG308x2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Клеммник"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP3" ("XP3"); Footprint = "DG308x2"; UniqueID = "\TIZJTSEW" ("\TIZJTSEW")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = "+48V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = "Gnd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/dg308-2.54-02p-14-00ah"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "DG308x2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Клеммник"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP4" ("XP4"); Footprint = "B4B-ZR"; UniqueID = "\KPNHDVAT" ("\KPNHDVAT")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = "Vcc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = "CLK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_3"; Value = "DIO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_4"; Value = "Gnd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/b4b-zr"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "B4B-ZR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Разъём"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP5" ("XP5"); Footprint = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; UniqueID = "\YQIOYXTB" ("\YQIOYXTB")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = "+36V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = "Rx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_3"; Value = "Tx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_4"; Value = "Gnd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/b4b-xh-a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link2"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link3"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Разъём"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP7" ("XP7"); Footprint = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; UniqueID = "\WAKPKGUM" ("\WAKPKGUM")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = "+12Vout"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = "led_r"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_3"; Value = "led_g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_4"; Value = "led_b"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/b4b-xh-a"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link2"; Value = "https://www.chipdip.ru/product/xhp-4?from=rec_product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link3"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Разъём"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP6" ("XP6"); Footprint = "DG308x2"; UniqueID = "\DDNBSTUY" ("\DDNBSTUY")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = "+12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = "Gnd"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/dg308-2.54-02p-14-00ah"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "DG308x2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Клеммник"; VariantName = "[No Variations]"
+Change component parameters: Designator = "XP2" ("XP2"); Footprint = "PLS-2"; UniqueID = "\WGOOTQTN" ("\WGOOTQTN")
+Change component parameters (AddParameter): Name = "Circuit_1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit_2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/pls-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Link3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "Baudrate"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PLS-2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R0603"; UniqueID = "\GCUUEVOB" ("\GCUUEVOB")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R0603"; UniqueID = "\VFOMGNVD" ("\VFOMGNVD")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "R0603"; UniqueID = "\PAAUARBH" ("\PAAUARBH")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R0603"; UniqueID = "\MILQXSAF" ("\MILQXSAF")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R0603"; UniqueID = "\YMPJVFCQ" ("\YMPJVFCQ")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "R0603"; UniqueID = "\BXBURWLN" ("\BXBURWLN")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "R0603"; UniqueID = "\OLCQVNGD" ("\OLCQVNGD")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "R0603"; UniqueID = "\TKQEBDXQ" ("\TKQEBDXQ")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0603"; UniqueID = "\RQJDLRPQ" ("\RQJDLRPQ")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R0603"; UniqueID = "\EIIYXTMC" ("\EIIYXTMC")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "R0603"; UniqueID = "\AEIZNFYT" ("\AEIZNFYT")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "R0603"; UniqueID = "\KEXZBYWF" ("\KEXZBYWF")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R0603"; UniqueID = "\WBECLKLF" ("\WBECLKLF")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "R0603"; UniqueID = "\BUVVKGMG" ("\BUVVKGMG")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079736"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "R0603"; UniqueID = "\DTSVVZKP" ("\DTSVVZKP")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "R0603"; UniqueID = "\ECBTVCRU" ("\ECBTVCRU")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "R0603"; UniqueID = "\JRJMKTJX" ("\JRJMKTJX")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product0/9000079616"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "LQH43C"; UniqueID = "\ZQVIHIHQ" ("\ZQVIHIHQ")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/lqh43mn150k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "LQH43C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Индуктивность"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "SDR1006"; UniqueID = "\YUDXAWLK" ("\YUDXAWLK")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/sdr1006-330kl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "SDR1006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Индуктивность"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3" ("L3"); Footprint = "SDR1006"; UniqueID = "\XZYUHGIN" ("\XZYUHGIN")
+Change component parameters (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/sdr1006-330kl"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "SDR1006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Индуктивность"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33uH"; VariantName = "[No Variations]"

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5V Pin=XP3-1
+Removed Pin From Net: NetName=rx Pin=XP3-2
+Removed Pin From Net: NetName=GND Pin=XP3-4
+Removed Member From Class: ClassName=uart_key Member=XP4
+Change Component Designator: OldDesignator=XP2 NewDesignator=XP1
+Change Component Designator: OldDesignator=XP4 NewDesignator=XP3
+Added Component: Designator=XP2(JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical)
+Add component (AddParameter): Name = "Circuit_1"; Value = "+5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_2"; Value = "Rx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit_3"; Value = "Gnd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link1"; Value = "https://www.chipdip.ru/product/sct2501wv-03p-b3b-xh-a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link2"; Value = "https://www.chipdip.ru/product/sct2501h-03p-xhp-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link3"; Value = "https://www.chipdip.ru/product/sxh-001t-0.6?from=rec_product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Ðàçú¸ì"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=XP2-1
+Added Pin To Net: NetName=rx Pin=XP2-2
+Added Pin To Net: NetName=GND Pin=XP2-3
+Added Member To Class: ClassName=uart_key Member=Component XP2 IN
+Added Room: Name=uart_key

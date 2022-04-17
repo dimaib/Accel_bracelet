@@ -1,0 +1,8 @@
+Added Component: Designator=R5(R0603)
+Add component (AddParameter): Name = "Link1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "R0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=braslet_pcb Member=Component R5 * ±1%
+Added Room: Name=braslet_pcb
